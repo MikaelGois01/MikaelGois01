@@ -19,9 +19,19 @@
 </div>
 
 <h2 align="center">📊 GitHub Stats:</h2>
-
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MikaelGois&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=MikaelGois&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MikaelGois&layout=compact&theme=dark) -->
 <div align="center">
-<a href="https://github.com/MikaelGois"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=MikaelGois&theme=dark&hide_border=true&include_all_commits=false&count_private=false" style="max-width:100%;"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelGois&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="max-width:100%;">
+<a href="https://github.com/MikaelGois">
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=MikaelGois&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="max-width:100%;"><img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MikaelGois&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="max-width:100%;">
+</a>
+</div>
+
+<h2 align="center">🔥 Contribution Streak:</h2>
+<div align="center">
+<a href="https://github.com/MikaelGois">
+<img height="160em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=MikaelGois&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="max-width:100%;">
 </a>
 </div>
 
